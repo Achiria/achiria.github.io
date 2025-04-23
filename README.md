@@ -1,2 +1,3 @@
-# achiria.github.io
-Achiria's static site
+A work in progress  
+Paper.js does all the work
+
