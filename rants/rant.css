@@ -1,0 +1,13 @@
+.rant-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+    margin: auto;
+    text-align: center;
+}
+  
+.rant-body {
+    width: 50em;
+    margin: auto;
+}
