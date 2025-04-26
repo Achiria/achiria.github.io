@@ -10,4 +10,9 @@
 .rant-body {
     width: 50em;
     margin: auto;
+    min-width: 40em;
+}
+
+.rant-body p {
+    text-indent: 2em;
 }

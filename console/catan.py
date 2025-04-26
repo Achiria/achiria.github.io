@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Console Catan</title>
-    <!-- linking to PyScript assets -->
-    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
-  </head>
-  <body>
-  <!-- Put Python code inside the the <py-script> tag -->
-    <py-script>
-        #!/usr/bin/python
+#!/usr/bin/python
 # -*- coding: utf8 -*-
 
 from __future__ import print_function
@@ -945,6 +932,3 @@ while True:
 
 
 # print("\nEntered: " + command)
-    </py-script>
-  </body>
-</html>
