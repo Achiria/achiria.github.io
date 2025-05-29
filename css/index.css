@@ -1,2 +1,11 @@
-/* CSS Document */
+#source-text {
+    position: absolute;
+    bottom: 3px;
+    right: 8px;
+    color: #888888;
+    text-decoration:none;
+}/* CSS Document */
 
+#source-text:hover {
+    text-decoration: underline;
+}
