@@ -21,6 +21,7 @@ To run locally:
     </ul>
     <li>run local server</li>
     <ul>
-        <li>npx http-server .\achiria.github.io\ -o -p 9999</li>
+        <li>mac: [in achiria.github.io/..] npx http-server -o -p 9999</li>
+        <li>windows: npx http-server .\achiria.github.io\ -o -p 9999</li>
     </ul>
 </ol> 
